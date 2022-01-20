@@ -1,0 +1,14 @@
+{
+  "customers": [
+    {
+      "name": "Faith Pueneh",
+      "address": "No 21 potts johnson street",
+      "phonenumber": "08068838411"
+    },
+    {
+      "name": "Faith Jasmine",
+      "address": "No 25 royal johnson street",
+      "phonenumber": "08068838451"
+    }
+  ]
+}
